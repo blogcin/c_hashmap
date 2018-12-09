@@ -77,5 +77,5 @@ int main(char* argv, int argc)
     /* Now, destroy the map */
     hashmap_free(mymap);
 
-    return 1;
+    return 0;
 }
